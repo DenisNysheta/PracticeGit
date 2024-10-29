@@ -31,6 +31,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
+              <p>HELLO REBASE FROM DEV</p>
             <Image
               className="dark:invert"
               src="/vercel.svg"
