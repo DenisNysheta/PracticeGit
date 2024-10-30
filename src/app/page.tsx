@@ -32,6 +32,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
               <p>HELLO REBASE FROM DEV</p>
+              <span>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id harum architecto odio, corrupti provident qui accusamus enim assumenda? Quo dolorem obcaecati dolor officiis amet consequatur harum totam ad alias excepturi suscipit accusamus ducimus id animi voluptas mollitia, incidunt quae nihil sint iste nesciunt quidem expedita? Eos natus incidunt officiis quisquam.</span>
             <Image
               className="dark:invert"
               src="/vercel.svg"
