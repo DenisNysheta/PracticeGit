@@ -12,6 +12,7 @@ export default function Home() {
           height={38}
           priority
         />
+        TEST
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
             Get started by editing{" "}
@@ -30,6 +31,8 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
+              <p>HELLO REBASE FROM DEV</p>
+              <span>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id harum architecto odio, corrupti provident qui accusamus enim assumenda? Quo dolorem obcaecati dolor officiis amet consequatur harum totam ad alias excepturi suscipit accusamus ducimus id animi voluptas mollitia, incidunt quae nihil sint iste nesciunt quidem expedita? Eos natus incidunt officiis quisquam.</span>
             <Image
               className="dark:invert"
               src="/vercel.svg"
